@@ -1,2 +1,5 @@
 print("mai hoo don ")
-123455
+def add(a,b):
+    return a+b
+    a=12,b=3
+    
